@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrinceAli
-- :shrug: This is GitHub template for my information.
+- :shrug: This is GitHub template for my information. Because I work for big companies and they have lawyers, I keep my codes to myself.
 - 👀 My main interest is Automation. Humans are not good at repetitive tasks, machines on the other hand are. 
 - :book: As a SWE at Google, I had Python and Go readability.
 - 🌱 [As of Q1 2021] I’m currently learning GraphQL.
